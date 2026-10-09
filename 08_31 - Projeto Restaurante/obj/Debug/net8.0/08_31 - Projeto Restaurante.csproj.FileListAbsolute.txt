@@ -1,0 +1,14 @@
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\bin\Debug\net8.0\08_31 - Projeto Restaurante.exe
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\bin\Debug\net8.0\08_31 - Projeto Restaurante.deps.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\bin\Debug\net8.0\08_31 - Projeto Restaurante.runtimeconfig.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\bin\Debug\net8.0\08_31 - Projeto Restaurante.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\bin\Debug\net8.0\08_31 - Projeto Restaurante.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.AssemblyInfoInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.AssemblyInfo.cs
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\refint\08_31 - Projeto Restaurante.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\08_31 - Projeto Restaurante.genruntimeconfig.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\08_31 - Projeto Restaurante\obj\Debug\net8.0\ref\08_31 - Projeto Restaurante.dll

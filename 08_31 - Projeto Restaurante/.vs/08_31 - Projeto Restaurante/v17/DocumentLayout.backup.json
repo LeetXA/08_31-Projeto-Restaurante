@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|d:\\faculdade\\2\u00BA periodo\\2\u00BA semestre\\08_31 - projeto restaurante\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|solutionrelative:restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|d:\\faculdade\\2\u00BA periodo\\2\u00BA semestre\\08_31 - projeto restaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|d:\\faculdade\\2\u00BA periodo\\2\u00BA semestre\\08_31 - projeto restaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|solutionrelative:restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|d:\\faculdade\\2\u00BA periodo\\2\u00BA semestre\\08_31 - projeto restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|d:\\faculdade\\2\u00BA periodo\\2\u00BA semestre\\08_31 - projeto restaurante\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF7C7C3-8AB6-4DCF-80F2-FDDE4B7DC53B}|08_31 - Projeto Restaurante.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "RestauranteController.cs",
+              "ToolTip": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\RestauranteController.cs",
+              "RelativeToolTip": "RestauranteController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:49:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "Restaurante.cs",
+              "ToolTip": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Restaurante.cs",
+              "RelativeToolTip": "Restaurante.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:48:48.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedido.cs",
+              "ToolTip": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Pedido.cs",
+              "RelativeToolTip": "Pedido.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:47:32.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:45:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FACULDADE\\2\u00BA PERIODO\\2\u00BA SEMESTRE\\08_31 - Projeto Restaurante\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:43:43.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
